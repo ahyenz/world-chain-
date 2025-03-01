@@ -1,6 +1,3 @@
-.solhint.json
-  
-
 # PBH Architecture 
 
 World Chain is an OP Stack chain, enabling priority blockspace for humans through the World Chain Builder. In order to fully understand the builder, lets quickly review how transaction inclusion works within the OP Stack. The diagram below demonstrates an abridged version of the lifecycle of a transaction on Optimistic Rollups.
